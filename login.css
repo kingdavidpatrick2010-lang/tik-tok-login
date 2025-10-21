@@ -6,6 +6,10 @@ body{ background-color: #7fffd4;
     text-decoration: double;
     color: indigo;
 }
+input{
+    border-radius:700px;
+}
+
 
 
 
